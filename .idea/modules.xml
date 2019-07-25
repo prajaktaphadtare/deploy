@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../flaskenv/basicinterview/.idea/basicinterview.iml" filepath="$PROJECT_DIR$/../flaskenv/basicinterview/.idea/basicinterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../newenv/demogit/.idea/demogit.iml" filepath="$PROJECT_DIR$/../newenv/demogit/.idea/demogit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/first_proj.iml" filepath="$PROJECT_DIR$/.idea/first_proj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../newenv/mysite/.idea/mysite.iml" filepath="$PROJECT_DIR$/../newenv/mysite/.idea/mysite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../newenv/pgitdemo/.idea/pgitdemo.iml" filepath="$PROJECT_DIR$/../newenv/pgitdemo/.idea/pgitdemo.iml" />
+    </modules>
+  </component>
+</project>
